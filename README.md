@@ -13,6 +13,7 @@ By compiling the ranks from Yelp, Zagat, TripAdvisor, and Foursquare I came up w
 [Survey - Part 1](https://docs.google.com/forms/d/1-RL1IUfHQReRdZzscSKRWN4qFee3hio--wrLj7_njIs/viewform)
 
 and 216 continued on to the next section:
+
 [Survey - Part 2](https://docs.google.com/forms/d/1JoAbYZWyvsISxrj_iiCchAf1XnQuxuLhF2eGyi0lT9g/viewform)
 
 (761 * 34) + (216 * 69) = 40,778 radio boxes clicked.
