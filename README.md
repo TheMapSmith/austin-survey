@@ -1,7 +1,7 @@
 austin-survey
 =============
 
-For the analysis I simply sorted by percent of respondants who replyed "Yes" to the question "I would recommend this place to a friend"
+For the analysis I simply sorted by percent of respondants who replied  "Yes" to the question "I would recommend this place to a friend"
 
 ##Austin's Top-10 Recommended Places:
 1. Torchy's Tacos
