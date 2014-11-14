@@ -1,7 +1,16 @@
 austin-survey
 =============
 
-For the analysis I simply sorted by percent of respondants who replied  "Yes" to the question "I would recommend this place to a friend"
+##I asked the Austin subreddit to take a survey
+[...and the response was overwhelming](http://www.reddit.com/r/Austin/comments/2m16a3/hey_austin_my_analysis_of_yelp_zagat_tripadvisor/)
+
+By compiling the ranks from Yelp, Zagat, TripAdvisor, and Foursquare I came up with a rank ordering, but I wansn't completly convinced. So I asked the Internet for their opinion
+
+[Survey - Part 1](https://docs.google.com/forms/d/1-RL1IUfHQReRdZzscSKRWN4qFee3hio--wrLj7_njIs/viewform)
+[Survey - Part 2](https://docs.google.com/forms/d/1JoAbYZWyvsISxrj_iiCchAf1XnQuxuLhF2eGyi0lT9g/viewform)
+
+#Results
+For the analysis I simply sorted by percent of respondents who replied  "Yes" to the question "I would recommend this place to a friend?" 
 
 ##Austin's Top-10 Recommended Places:
 1. Torchy's Tacos
