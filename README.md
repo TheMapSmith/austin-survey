@@ -35,6 +35,8 @@ For the analysis I simply sorted by percent of respondents who replied  "Yes" to
 1. Franklin BBQ
 1. Draught House Pub & Brewery
 
+###To-Do: Compile all the write-in recommendations
+
 #[Link to Google Sheet](https://docs.google.com/spreadsheets/d/1_8lvdjW8bTWL6McC1g0PdUq_1Q2tS57l3Bfgm44rHXU/edit?usp=sharing)
 
 #Excel spreadsheet and CSVs of each sheet are also in the repository (above)
